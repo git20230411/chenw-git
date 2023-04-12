@@ -2,4 +2,4 @@
 git learn
 
 
-new read
+new read so  
